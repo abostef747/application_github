@@ -31,3 +31,9 @@
  Setting Branch Rules
  
  ![Repository Creation Example](https://github.com/abostef747/application_github/blob/main/branchRules.png)
+
+
+ In case you dont know where the most of these option are available to reach,
+ they are available from the Settings tab such as shown in the image.
+
+  ![Repository Creation Example](https://github.com/abostef747/application_github/blob/main/settings.png)
